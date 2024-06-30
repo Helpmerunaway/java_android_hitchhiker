@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="example">Example text</string>
+    <string name="answer">Confirm</string>
+    <string name="incorrect_answer">Sorry, wrong answer</string>
+    <string name="input_answer">Input answer</string>
+    <string name="correct_answer">Correct!</string>
+</resources>
